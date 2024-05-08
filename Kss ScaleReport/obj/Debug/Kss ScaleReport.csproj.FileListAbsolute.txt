@@ -1,0 +1,16 @@
+D:\KSS Projects\extensions_local_projects\Kss ScaleReport\Kss ScaleReport\obj\Debug\Kss_ScaleReport.ctrlsmnuTrayppal.resources
+D:\KSS Projects\extensions_local_projects\Kss ScaleReport\Kss ScaleReport\obj\Debug\Kss_ScaleReport.ctrlBase.resources
+D:\KSS Projects\extensions_local_projects\Kss ScaleReport\Kss ScaleReport\obj\Debug\Kss_ScaleReport.frmMain.resources
+D:\KSS Projects\extensions_local_projects\Kss ScaleReport\Kss ScaleReport\obj\Debug\Kss_ScaleReport.frmConfig.resources
+D:\KSS Projects\extensions_local_projects\Kss ScaleReport\Kss ScaleReport\obj\Debug\Kss_ScaleReport.frmPassword.resources
+D:\KSS Projects\extensions_local_projects\Kss ScaleReport\Kss ScaleReport\obj\Debug\Kss_ScaleReport.frmSystray.resources
+D:\KSS Projects\extensions_local_projects\Kss ScaleReport\Kss ScaleReport\obj\Debug\Kss_ScaleReport.Properties.Resources.resources
+D:\KSS Projects\extensions_local_projects\Kss ScaleReport\Kss ScaleReport\obj\Debug\Kss ScaleReport.csproj.GenerateResource.cache
+D:\KSS Projects\extensions_local_projects\Kss ScaleReport\Kss ScaleReport\obj\Debug\Kss ScaleReport.csproj.CoreCompileInputs.cache
+D:\KSS Projects\extensions_local_projects\Kss ScaleReport\Kss ScaleReport\bin\Debug\Kss ScaleReport.exe
+D:\KSS Projects\extensions_local_projects\Kss ScaleReport\Kss ScaleReport\bin\Debug\Kss ScaleReport.pdb
+D:\KSS Projects\extensions_local_projects\Kss ScaleReport\Kss ScaleReport\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\KSS Projects\extensions_local_projects\Kss ScaleReport\Kss ScaleReport\bin\Debug\DevComponents.DotNetBar2.dll
+D:\KSS Projects\extensions_local_projects\Kss ScaleReport\Kss ScaleReport\obj\Debug\Kss ScaleReport.csproj.CopyComplete
+D:\KSS Projects\extensions_local_projects\Kss ScaleReport\Kss ScaleReport\obj\Debug\Kss ScaleReport.exe
+D:\KSS Projects\extensions_local_projects\Kss ScaleReport\Kss ScaleReport\obj\Debug\Kss ScaleReport.pdb

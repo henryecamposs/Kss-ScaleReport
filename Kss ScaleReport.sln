@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kss ScaleReport", "Kss ScaleReport\Kss ScaleReport.csproj", "{A72A578B-F970-42FA-9E11-AE0E8A79E681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A72A578B-F970-42FA-9E11-AE0E8A79E681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72A578B-F970-42FA-9E11-AE0E8A79E681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72A578B-F970-42FA-9E11-AE0E8A79E681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72A578B-F970-42FA-9E11-AE0E8A79E681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F44E8488-2C1C-4D66-8733-31579FDE90C7}
+	EndGlobalSection
+EndGlobal
